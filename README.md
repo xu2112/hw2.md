@@ -1,8 +1,6 @@
 # hw2.md
 
 ## 甘特圖視覺化
-
-
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
@@ -29,8 +27,6 @@ gantt
 
 ## PERT/CPM 圖視覺化
 
-以下是使用 Mermaid 語法生成的 PERT/CPM 圖：
-
 ```mermaid
 graph TD;
     A[研擬計畫<br/>1天] --> B[任務分配<br/>4天];
@@ -45,8 +41,5 @@ graph TD;
     H --> J;
     I --> K[使用者測試<br/>25天];
     J --> K;
-
-
-```
 
 ---
