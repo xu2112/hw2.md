@@ -1,5 +1,5 @@
 # hw2.md
-## PERT/CPM 圖視覺化
+## PERT/CPM 
 
 ```mermaid
 graph TD;
@@ -18,7 +18,7 @@ graph TD;
 
 
 ```
-## 甘特圖視覺化
+## 甘特圖
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
